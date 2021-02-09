@@ -8,9 +8,9 @@ ul{
 
 h2{
     font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 42,19px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 36px;
     color: var(--black);
 }
 
@@ -39,9 +39,6 @@ footer{
     color: var(--blue);
 }
 
-.nav-link .portfolio{
-    color: var(--blue);
-}
 
 .nav{
     font-family: 'Roboto', sans-serif;
@@ -57,18 +54,11 @@ footer{
 
 .nav-link:hover,
 .nav-link:focus{
-    color: tomato;
-}
-
-.contacts-mail{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16,41px;
     color: var(--blue);
 }
 
-.contacts-tel{
+
+.contacts{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
@@ -76,15 +66,11 @@ footer{
     color: var(--gray);
 }
 
-.contacts-mail:hover,
-.contacts-mail:focus{
+.contacts:hover,
+.contacts:focus{
     color: var(--blue)
 }
 
-.contacts-tel:hover,
-.contacts-tel:focus{
-    color: var(--blue)
-}
 
 .address{
     font-family: 'Roboto', sans-serif;
@@ -112,3 +98,32 @@ footer{
     color: var(--gray-op60);
 }
 
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.hero-btn{
+    border: none;
+}
+
+.hero-btn:hover,
+.hero-btn:focus{
+    color: var(--blue)
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: var(--gray);
+}
