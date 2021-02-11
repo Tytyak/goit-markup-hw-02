@@ -10,7 +10,7 @@ h2{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,166;
+    line-height: 1.166;
     color: var(--black);
 }
 
@@ -43,7 +43,7 @@ footer{
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: 26px;
-    line-height: 1,192;
+    line-height: 1.192;
     color: var(--black);
 
 }
@@ -57,7 +57,7 @@ footer{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,142;
+    line-height: 1.142;
     color: var(--black);
 }
 
@@ -74,7 +74,7 @@ footer{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,142;
+    line-height: 1.142;
     color: var(--blue);
 }
 
@@ -82,7 +82,7 @@ footer{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,142;
+    line-height: 1.142;
     color: var(--gray);
 }
 
@@ -96,7 +96,8 @@ h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,363;
+    line-height: 1.363;
+    text-transform: uppercase;
 
 }
 
@@ -104,7 +105,7 @@ h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1,875;
+    line-height: 1.875;
     background-color: var(--blue);
     border: none;
     color: var(--white);
@@ -114,7 +115,7 @@ h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 14px;
-    line-height: 1,142;
+    line-height: 1.142;
     color: var(--black);
     text-transform: uppercase;
     
@@ -124,7 +125,7 @@ h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,714;
+    line-height: 1.714;
     color: var(--gray);
 }
 
@@ -132,14 +133,14 @@ h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,187;
+    line-height: 1.187;
 }
 
 .profession{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1,187;
+    line-height: 1.187;
     color: var(--gray);
 }
 
@@ -147,7 +148,7 @@ h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,714;
+    line-height: 1.714;
     color: var(--white);
 }
 
@@ -157,7 +158,7 @@ h1{
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: 26px;
-    line-height: 1,192;
+    line-height: 1.192;
     color: var(--white);
 }
 
@@ -165,6 +166,6 @@ h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,714;
+    line-height: 1.714;
     color: var(--gray-op60);
 }

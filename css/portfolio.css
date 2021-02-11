@@ -30,7 +30,7 @@ footer{
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: 26px;
-    line-height: 1,192;
+    line-height: 1.192;
     color: var(--black);
 
 }
@@ -44,7 +44,7 @@ footer{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,142;
+    line-height: 1.142;
     color: var(--black);
 }
 
@@ -62,7 +62,7 @@ footer{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,142;
+    line-height: 1.142;
     color: var(--gray);
 }
 
@@ -76,7 +76,7 @@ footer{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,714;
+    line-height: 1.714;
     color: var(--white);
 }
 
@@ -86,7 +86,7 @@ footer{
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: 26px;
-    line-height: 1,192;
+    line-height: 1.192;
     color: var(--white);
 }
 
@@ -94,7 +94,7 @@ footer{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,714;
+    line-height: 1.714;
     color: var(--gray-op60);
 }
 
@@ -116,7 +116,7 @@ footer{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,625;
+    line-height: 1.625;
 
 }
 
@@ -129,6 +129,6 @@ p{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,875;
+    line-height: 1.875;
     color: var(--gray);
 }
