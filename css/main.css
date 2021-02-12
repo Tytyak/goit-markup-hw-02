@@ -1,18 +1,3 @@
-a{
-    text-decoration: none;
-}
-
-ul{
-    list-style: none;
-}
-
-h2{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.166;
-    color: var(--black);
-}
 
 .visually-hidden{
     position: absolute;
@@ -26,10 +11,7 @@ h2{
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-
-footer{
-    background-color: var(--background-foot);
-}
+        /* Header */
 
 .logo{
 
@@ -53,7 +35,7 @@ footer{
 }
 
 
-.nav{
+.nav-item{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
@@ -70,14 +52,6 @@ footer{
     color: var(--blue);
 }
 
-.contacts-mail{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.142;
-    color: var(--blue);
-}
-
 .contacts{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
@@ -90,9 +64,9 @@ footer{
 .contacts:focus{
     color: var(--blue)
 }
+          /* MAIN */
 
-
-h1{
+.hero-title{
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     font-size: 44px;
@@ -111,7 +85,7 @@ h1{
     color: var(--white);
 }
 
-.about{
+.advant-title{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 14px;
@@ -121,12 +95,21 @@ h1{
     
 }
 
-.about-us{
+.advant-descript{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.714;
     color: var(--gray);
+}
+
+.about-title,
+.team-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.166;
+    color: var(--black);
 }
 
 .team{
@@ -136,12 +119,18 @@ h1{
     line-height: 1.187;
 }
 
-.profession{
+.team-profession{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.187;
     color: var(--gray);
+}
+
+      /* FOOTER */
+
+.page-footer{
+    background-color: var(--background-foot);
 }
 
 .address{
@@ -162,7 +151,7 @@ h1{
     color: var(--white);
 }
 
-.contacts-foot{
+.contacts-list{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
